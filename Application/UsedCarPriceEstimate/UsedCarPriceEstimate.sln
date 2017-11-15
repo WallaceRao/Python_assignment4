@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsedCarPriceEstimate", "UsedCarPriceEstimate\UsedCarPriceEstimate.csproj", "{266243AD-5CA1-4721-9600-80CDE6C325DE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PriceEstimateSetup", "PriceEstimateSetup\PriceEstimateSetup.vdproj", "{77DEC42F-260B-46FA-8DCA-EB16F6B1367A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266243AD-5CA1-4721-9600-80CDE6C325DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266243AD-5CA1-4721-9600-80CDE6C325DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266243AD-5CA1-4721-9600-80CDE6C325DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266243AD-5CA1-4721-9600-80CDE6C325DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DEC42F-260B-46FA-8DCA-EB16F6B1367A}.Debug|Any CPU.ActiveCfg = Debug
+		{77DEC42F-260B-46FA-8DCA-EB16F6B1367A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
